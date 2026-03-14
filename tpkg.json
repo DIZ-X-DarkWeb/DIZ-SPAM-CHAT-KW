@@ -1,0 +1,13 @@
+{
+  "name": "xdiz-spm-chat",
+  "version": "1.0.0",
+  "description": "WhatsApp spam tool with ASCII dashboard",
+  "maintainer": "dika projects",
+  "license": "MIT",
+  "bin": "xdiz_spam.py",
+  "dependencies": ["python"],
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/username/xdiz-spm-chat"
+  }
+}
